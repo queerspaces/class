@@ -1,0 +1,285 @@
+body {
+font-family: sans-serif;
+
+width: 3500px;
+height: 3500px;
+
+background-image:
+url('https://i.imgur.com/QSKao98.png'),
+url('https://i.imgur.com/witjZGt.gif'),
+url('https://i.imgur.com/TakfbcO.gif'),
+url('https://i.imgur.com/rdq2u5F.gif'),
+url('https://i.imgur.com/7soLoG5.png'),
+url('https://i.imgur.com/FfAFJVR.gif'),
+url('https://i.imgur.com/P0IgwYz.jpg'),
+url('https://i.imgur.com/LEhQE7h.jpg'),
+url('https://i.imgur.com/gkgZo83.jpg');
+
+background-repeat: no-repeat;
+
+background-attachment: scroll;
+
+background-position:
+100px 1580px,
+2000px 1650px,
+1700px 1500px,
+1300px 1900px,
+700px 1500px,
+1000px 1300px,
+2000px 0px,
+0px 0px,
+0px 2000px;
+
+background-size:
+3100px 2105px,
+270px 175px,
+150px 150px,
+225px 150px,
+auto,
+200px 300px,
+1512px 2016px,
+2000px 3000px,
+3680px 2456px;
+
+}
+
+#text1{
+  color: #b02ea5;
+  font-size: 25px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: 400;
+  right: 400;
+  width: 950px;
+}
+
+#text2{
+  color: #b02ea5;
+  font-size: 30px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -200;
+  right: -100;
+  width: 550px;
+}
+
+#text3 {
+    color: #b02ea5;
+    font-size: 40px;
+    margin: 0px auto 0px auto;
+    padding: 5px;
+    display: table;
+    position: absolute;
+    bottom: -550;
+    right: 400;
+    width: 700px;
+  }
+
+#text7{
+  color: #b02ea5;
+  font-size: 20px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -950;
+  right: -300;
+  width: 700px;
+}
+
+#text8{
+  color: #b02ea5;
+  font-size: 30px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1250;
+  right: 200;
+  width: 700px;
+}
+
+#text9{
+  color: #b02ea5;
+  font-size: 40px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1350;
+  right: 100;
+  width: 700px;
+}
+
+#text10{
+  color: #b02ea5;
+  font-size: 35px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1700;
+  right: 950;
+  width: 200px;
+}
+
+#text11{
+  color: #b02ea5;
+  font-size: 40px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2650;
+  right: 270;
+  width: 170px;
+}
+
+#text12{
+  color: #b02ea5;
+  font-size: 30px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2350;
+  right: -300;
+  width: 400px;
+}
+
+#text13{
+  color: #b02ea5;
+  font-size: 40px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2450;
+  right: -500;
+  width: 300px;
+}
+
+#text14{
+  color: #b02ea5;
+  font-size: 25px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2450;
+  right: -1400;
+  width: 700px;
+}
+
+#text15{
+  color: #b02ea5;
+  font-size: 30px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2750;
+  right: -1000;
+  width: 700px;
+}
+
+#text4{
+  color: #b02ea5;
+  font-size: 40px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2650;
+  right: -1700;
+  width: 700px;
+}
+
+#text16{
+  color: #b02ea5;
+  font-size: 30px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2250;
+  right: -2000;
+  width: 50px;
+}
+
+#text17{
+  color: #b02ea5;
+  font-size: 30px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2150;
+  right: -1950;
+  width: 500px;
+}
+
+#text18{
+  color: #b02ea5;
+  font-size: 20px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1750;
+  right: -2040;
+  width: 700px;
+}
+
+#text19{
+  color: #b02ea5;
+  font-size: 30px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1450;
+  right: -1600;
+  width: 700px;
+}
+
+#text20{
+  color: #b02ea5;
+  font-size: 45px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1250;
+  right: -1700;
+  width: 500px;
+}
+
+#text21{
+  color: #b02ea5;
+  font-size: 50px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: 250;
+  right: -1400;
+  width: 700px;
+}
+
+#text22{
+  color: #b02ea5;
+  font-size: 30px;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: 550;
+  right: -2000;
+  width: 400px;
+  background-color:#f5b5e8;
+}
